@@ -58,18 +58,18 @@ red_green_strocks = 1051; print('Запасы лимона на ферме -', r
 
 apt install python3.8 
  
-     cd/home 
+cd/home 
  
-     touch hel.py 
+touch hel.py 
  
-     vim hel.py 
+vim hel.py 
 
-     IN VIM: press i to go to insert mode 
+IN VIM: press i to go to insert mode 
  
-     then add code : print ('22 июня 1941 года');print ('ЯПОНИЯ,США,СССР,ГЕРМАНИЯ,ВЕЛИКОБРИТАНИЯ');print ();print ('9 мая 1945 года');print ('Страна победитель - СССР') 
+then add code : print ('22 июня 1941 года');print ('ЯПОНИЯ,США,СССР,ГЕРМАНИЯ,ВЕЛИКОБРИТАНИЯ');print ();print ('9 мая 1945 года');print ('Страна победитель - СССР') 
  
-    then press esc button and type :wq to save script. 
+then press esc button and type :wq to save script. 
  
-    chmod 777 hel.py 
+chmod 777 hel.py 
   
-    python 3.8 hel.py
+python 3.8 hel.py
